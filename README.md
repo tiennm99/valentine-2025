@@ -1,2 +1,2 @@
-# valentine2025
+# valentine-2025
 Just a fun website prepare for Valentine 2025
